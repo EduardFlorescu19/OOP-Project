@@ -1,0 +1,33 @@
+﻿  [Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(260,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(546,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(837,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(1116,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(1429,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(1787,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(2733,35): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(2734,31): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(2735,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(2736,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 3].cpp(2737,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  [Proiect][1052][Florescu Eduard-Andrei] - [Faza 2].vcxproj -> C:\Facultate\POO\PROIECT POO\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2]\x64\Debug\[Proiect][1052][Florescu Eduard-Andrei] - [Faza 2].exe
